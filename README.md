@@ -4,6 +4,8 @@
 Vue + TypeScript 封装组件
 - Button
 
+![效果图](http://qiniu.rocbj.com/Jietu20201225-172100.jpg)
+
 ### Project setup
 ```
 yarn install
@@ -26,5 +28,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-![效果图](http://qiniu.rocbj.com/Jietu20201225-172100.jpg)
